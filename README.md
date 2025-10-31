@@ -80,5 +80,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Rakenduse lehtede vahel navigeerimiseks kasutatakse React Router DOM raamatukogu.
 - BrowserRouter (Router) komponendi abil luuakse marsruutimissüsteem ning Route ja Routes komponendid määravad lehtede Home, Menu ja Contact asukohad.
 - Navbar-komponent kuvatakse igal lehel ja sisaldab linke nende vahel liikumiseks.
+- Kui kasutaja sisestab olematu aadressi, käivitub marsruut *, mis kuvab sõnumi „PAGE NOT FOUND”.
 
 
