@@ -69,3 +69,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+### Episode 8
+
+<img width="478" height="121" alt="{94C21E55-6E13-4BDC-BDD6-F02AACD755DD}" src="https://github.com/user-attachments/assets/332bd8ab-89b2-45dc-9cb3-e301cff7dad4" />
+
+<img width="452" height="117" alt="{8A799AAE-328A-42A4-8F24-3AACA7B65B33}" src="https://github.com/user-attachments/assets/b822f3c4-49f1-4c49-a67f-86ce336f5109" />
+
+<img width="514" height="118" alt="{AC391AFE-F578-42ED-A466-DA2F2E7A1E9A}" src="https://github.com/user-attachments/assets/aa081baa-e261-41a2-be0c-2cb05114ead5" />
+
+- Rakenduse lehtede vahel navigeerimiseks kasutatakse React Router DOM raamatukogu.
+- BrowserRouter (Router) komponendi abil luuakse marsruutimissüsteem ning Route ja Routes komponendid määravad lehtede Home, Menu ja Contact asukohad.
+- Navbar-komponent kuvatakse igal lehel ja sisaldab linke nende vahel liikumiseks.
+
+
