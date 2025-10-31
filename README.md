@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Episode 10
+
+<img width="810" height="214" alt="{94F2DD13-0A52-42AC-8D28-84005DAFB74D}" src="https://github.com/user-attachments/assets/83f2f16e-6a20-4976-b48b-be724dab84a3" />
+
+<img width="461" height="135" alt="{0B29D937-57DE-477A-A764-0BD5EF3C3A4D}" src="https://github.com/user-attachments/assets/6f928b51-4d55-4c64-bb88-6369429c35ee" />
+
+<img width="544" height="138" alt="{F350059E-F31F-4BA2-99D9-B2DCA3D824B9}" src="https://github.com/user-attachments/assets/f63051cc-22c0-4aec-93ea-21b050dbdc1c" />
+
+- Selles näites kasutatakse React Router DOMi raamatukogu rakenduse lehtede vahel navigeerimiseks ja @tanstack/react-query API päringute ja andmete puhverdamiseks.
+- BrowserRouter (Router) komponendi abil luuakse marsruutimissüsteem ning Route ja Routes komponendid määravad lehtede Home, Profile ja Contact asukohad.
+- Navbar komponent kuvatakse igal lehel ja sisaldab linke nende vahel liikumiseks.
+- Komponent QueryClientProvider ümbritseb kogu rakendust ja pakub React Query klienti (QueryClient) päringute haldamiseks, nende puhverdamiseks ja uuendamiseks.
+- Kui kasutaja sisestab olematu aadressi, käivitub marsruut *, mis kuvab sõnumi „PAGE NOT FOUND”.
