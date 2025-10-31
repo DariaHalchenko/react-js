@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Episode 7
+
+<img width="525" height="123" alt="{A276ECB0-1A63-4991-864F-9C8B66887DEE}" src="https://github.com/user-attachments/assets/21c26e1d-15ea-4d9d-8f6f-efc947f34d25" />
+
+- HTTP-päringute saatmiseks kasutatakse Axios-i raamatukogu.
+- Ühe nupu vajutamisel saadetakse API-le päring ja kasutajale kuvatakse valitud kategooria (nt „party”, „family” või „office”) juhuslik õigustus.
